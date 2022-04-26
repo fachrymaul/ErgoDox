@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "component")(type "KiCad")(uri "${KIPRJMOD}/component.kicad_sym")(options "")(descr ""))
+  (lib (name "ErgoDOX-cache")(type "KiCad")(uri "${KIPRJMOD}/ErgoDOX-cache.kicad_sym")(options "")(descr ""))
+)
